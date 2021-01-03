@@ -1,3 +1,6 @@
 [submodule "extern/genieutils"]
 	path = extern/genieutils
-	url = https://github.com/Tapsa/genieutils.git
+	url = git@github.com:kebugcheckex/genieutils.git
+[submodule "extern/pcrio"]
+	path = extern/pcrio
+	url = https://github.com/apreiml/pcrio
